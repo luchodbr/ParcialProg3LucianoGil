@@ -1,0 +1,6 @@
+{
+    "name": "luchodbr/parcial1hecho",
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
